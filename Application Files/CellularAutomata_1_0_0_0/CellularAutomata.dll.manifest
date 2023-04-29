@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="CellularAutomata.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="CellularAutomata.exe" version="1.0.0.0" publicKeyToken="dc01d5b52ec79692" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="7.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="15872">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="16816">
       <assemblyIdentity name="Launcher" version="7.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>cAT9lyCxXvRbjLd10FCiLktztQMtaEKD0d+LbYvDGs0=</dsig:DigestValue>
+        <dsig:DigestValue>GysCoSvip0irbtA5Zl46r81wGqxJAdLiIwEtK7be6mI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -62,22 +62,22 @@
       <dsig:DigestValue>8qQ9UTFTwPzI/4nyu/KDxKFk3gsXrMDlp5jaND91a7w=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="CellularAutomata.dll" size="11264">
+  <file name="CellularAutomata.dll" size="12208">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>M7+Vp3o1NRuQAIP7koMu7Wo++6tSbGjWt+5byrcxPdU=</dsig:DigestValue>
+      <dsig:DigestValue>8yB2PnTjS0Y902yoHRA6/wv/bEnx4IVr3Ie9x+wvTAs=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="CellularAutomata.exe" size="153088">
+  <file name="CellularAutomata.exe" size="154032">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>1KqkyngbI3syMTxa51/E09RGiZFcW8OYTHPhnui6rOs=</dsig:DigestValue>
+      <dsig:DigestValue>i36FHQIz0dehS34DnKjOUpOn7rOwFx77GqUvpyndi28=</dsig:DigestValue>
     </hash>
   </file>
   <file name="CellularAutomata.runtimeconfig.json" size="372">
@@ -89,4 +89,4 @@
       <dsig:DigestValue>DSp4MGmJyWjNc/SmtGLu8DcWOcu4eQJIAo4Sy6A1RFo=</dsig:DigestValue>
     </hash>
   </file>
-</asmv1:assembly>
+<publisherIdentity name="CN=POCÍTAC\marti" issuerKeyHash="d1bf6373e75fa74ea0f4a0b1b1b0be7437d33d6e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>rCHPiHuX7fz/LElhtLFG3MOssQgCZ3BK56ZufCNlc1k=</DigestValue></Reference></SignedInfo><SignatureValue>sKbX5ea+dug4FipEojnlkUTQpP+cPOXkS5x0pC0APTCL5LMSaMKF36vKfFP0hpMDt6JM8p/xYcwtoQI/HtRFnC1uhKIUlAmypIJjfNDSCoW+Z3aVJcM/agicUishBy+b3s56tvDRHHpb5kq9RRb84WVcO+Cs74vJRmHl/cHe77U=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wXk5mL8wQ3Q97FHW+SL1N8T40lj70w9Y1XThhNvokcHd+CeFjXiAnj9CzMzltYyHyxooF84JlkEwHjTtbDyvxnzvsYFmZCwsmXIvRZnYigfAIkseEqza5oBIQZwcFlD7UmLxmv7Vu88OqowfAdQ7x2cjJMDgjLbDE4iG1mTUhME=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="597365237c6ea6e74a70670208b1acc3dc46b1b461492cfffced977b88cf21ac" Description="" Url=""><as:assemblyIdentity name="CellularAutomata.exe" version="1.0.0.0" publicKeyToken="dc01d5b52ec79692" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=POCÍTAC\marti</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>pPdQ97qrvJeRlAxWB/9C9hoh7vsvi6KzZBdk/PxhDNo=</DigestValue></Reference></SignedInfo><SignatureValue>mJYeINBzKVu5HmJ6pflBh1QfSVzNSfegTus1evU8lttVJ4Pf8G1YhEo2jfcQgMjk5HYXgEJOCj/Gs+G3ixfK8Yg9Bxr4bUnFlRp9NyPqEW1df7ehDxoNyHJyrIA1wNV1l0IQ3MvOOUnOWhonXPVihKvjlQXw9VMOQwz2jt82d6Y=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wXk5mL8wQ3Q97FHW+SL1N8T40lj70w9Y1XThhNvokcHd+CeFjXiAnj9CzMzltYyHyxooF84JlkEwHjTtbDyvxnzvsYFmZCwsmXIvRZnYigfAIkseEqza5oBIQZwcFlD7UmLxmv7Vu88OqowfAdQ7x2cjJMDgjLbDE4iG1mTUhME=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQKu1PnxXc3KFAKMsUMgnSnzANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoAUABPAEMAzQBUAEEAQwBcAG0AYQByAHQAaTAeFw0yMzA0MjkxMDM2NDRaFw0yNDA0MjgxNjM2NDRaMCUxIzAhBgNVBAMeGgBQAE8AQwDNAFQAQQBDAFwAbQBhAHIAdABpMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBeTmYvzBDdD3sUdb5IvU3xPjSWPvTD1jVdOGE2+iRwd34J4WNeICeP0LMzOW1jIfLGigXzgmWQTAeNO1sPK/GfO+xgWZkLCyZci9FmdiKB8AiSx4SrNrmgEhBnBwWUPtSYvGa/tW7zw6qjB8B1DvHZyMkwOCMtsMTiIbWZNSEwQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAEAVlal6jjIj7+a1I/VNFOaleoAwg7dMDj8nYJQJclsSIAply3JA77+tAdTmZArYceejmnhCG4heJ4l+k1ZKzSkioKGA7VCtLpEuNL21JYQblsT0aiLNC7dAYKK4ayFric6wvilg/6flZ1TpaWKX0evUcc/pkrdWWP+DplLe27kd</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
