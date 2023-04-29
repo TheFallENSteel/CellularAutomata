@@ -62,22 +62,22 @@
       <dsig:DigestValue>8qQ9UTFTwPzI/4nyu/KDxKFk3gsXrMDlp5jaND91a7w=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="CellularAutomata.dll" size="11776">
+  <file name="CellularAutomata.dll" size="11264">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ZtjqlHfRA+9kDDHuTlmgN7D0jIagQGccyVk4RNC6Bwg=</dsig:DigestValue>
+      <dsig:DigestValue>M7+Vp3o1NRuQAIP7koMu7Wo++6tSbGjWt+5byrcxPdU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="CellularAutomata.exe" size="153600">
+  <file name="CellularAutomata.exe" size="153088">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>DT546iFzhEyu6ssGGppV+5yP8vvshe+dh9WDHem5kZU=</dsig:DigestValue>
+      <dsig:DigestValue>1KqkyngbI3syMTxa51/E09RGiZFcW8OYTHPhnui6rOs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="CellularAutomata.runtimeconfig.json" size="372">
